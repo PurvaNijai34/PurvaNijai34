@@ -1,54 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Purva Nijai</h1>
 
-<!--
-**PurvaNijai34/PurvaNijai34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi there 👋 I'm Purva Nijai
-
-🎓 I'm an Information Technology student at **RGIT (Batch '26)**  
-💻 I’m a passionate **Full-Stack Developer (MERN)**  
-🔧 I have completed a **Diploma in Computer Engineering**  
-🧠 I'm a **problem solver** and a curious **tech explorer**  
-🚀 Currently exploring **AI/ML** and building real-world web apps  
+<p align="center">
+  🚀 Tech Explorer | 💻 Full-Stack Developer | 🎓 IT Student @ RGIT '26
+</p>
 
 ---
 
-### 🔨 Tech Stack
-- **Languages**: JavaScript, Python, C/C++
-- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Tools**: Git, GitHub, Postman, VS Code
+### 👩‍💻 About Me
+
+- 🎓 Pursuing **B.E. in Information Technology** from **RGIT (Batch '26)**
+- 🧑‍💻 Completed **Diploma in Computer Engineering**
+- 💻 Passionate about **Full-Stack Web Development (MERN Stack)**
+- 🧠 Curious problem solver and a self-driven learner
+- 🚀 Exploring **AI/ML**, building real-world tech solutions
 
 ---
 
-### 📌 Projects
-- 🔐 **DocuSign Clone** – Full-featured Document Signature App using MERN stack  
-- 📊 **AI Resume Analyzer** – Smart resume scanner with LLM-based insights  
-- 🏏 **IPL Player Price Predictor** – ML-based system to predict IPL player prices  
-- 💉 **Diabetes Prediction System** – ML web app with HTML/CSS frontend  
+### 🛠️ Tech Stack
 
-> 👀 Check out my repositories to explore more!
+| Area       | Technologies |
+|------------|--------------|
+| **Languages** | JavaScript, Python, C/C++ |
+| **Frontend**  | HTML, CSS, JavaScript, React.js, Tailwind CSS |
+| **Backend**   | Node.js, Express.js |
+| **Database**  | MongoDB |
+| **Tools**     | Git, GitHub, Postman, VS Code |
 
 ---
 
-### 📫 Let's Connect
+### 📌 Featured Projects
+
+- 🔐 **[DocuSign Clone](#)**  
+  Full-featured document signing app built with the MERN stack
+
+- 📊 **[AI Resume Analyzer](#)**  
+  Resume scanner using AI & LLM-based insights
+
+- 🏏 **[IPL Player Price Predictor](#)**  
+  ML-powered prediction system for IPL player values
+
+- 💉 **[Diabetes Prediction System](#)**  
+  A medical web app using ML + HTML/CSS for disease prediction
+
+> 🧩 _Explore my repositories for more exciting projects!_
+
+---
+
+### 📫 Let’s Connect!
+
 - 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-URL)
 - 📧 Email: your.email@example.com
 
 ---
 
-_“Always building, always learning.”_
-
+<p align="center">
+  <b>“Always building, always learning.”</b>
+</p>
