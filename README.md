@@ -40,9 +40,7 @@
 
 ---
 
-### 🏆 Certifications & Achievements
-
-- ✅### 🎓 Certifications
+### 🎓 Certifications
 
 - ✅ [Data Structures and Algorithms using Java – Infosys Springboard](https://verify.onwingspan.com)  
   *Issued on: June 11, 2025*
