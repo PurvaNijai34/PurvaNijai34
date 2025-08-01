@@ -45,6 +45,13 @@
 > 🧩 _Explore my repositories for more exciting projects!_
 
 ---
+### 🏆 Achievements & Certifications
+
+- ✅ Completed “Full Stack Development” Bootcamp (Udemy/Coursera/etc.)
+- 🏅 1st Place in [Project/Tech Fest Name] for AI Resume Analyzer
+- 📜 Certified in “Machine Learning with Python” by [Platform Name]
+
+ 🧠 “Consistently sharpening my DSA skills on [LeetCode](https://leetcode.com/your-username) – currently solving daily challenges and pushing my limits!”
 
 ### 📫 Let’s Connect!
 
@@ -57,17 +64,5 @@
   <b>“Always building, always learning.”</b>
 </p>
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PurvaNijai34&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PurvaNijai34&theme=tokyonight" alt="GitHub Streak" width="400"/>
-</p>
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PurvaNijai34&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PurvaNijai34&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurvaNijai34&layout=compact&theme=tokyonight" width="400"/>
-</p>
 
