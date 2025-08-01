@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Purva+Nijai;Full+Stack+Developer+%7C+Tech+Explorer;IT+Student+%40+RGIT+'26;Always+building%2C+always+learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Purva+Nijai;Full+Stack+Developer+%7C+Tech+Explorer;IT+Student+%40+RGIT+'26;Always+building%2C+always+learning..." alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
 🚀 Tech Explorer | 💻 Full-Stack Developer | 🎓 IT Student @ RGIT '26
