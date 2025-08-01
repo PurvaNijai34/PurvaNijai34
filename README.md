@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Purva Nijai</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Purva+Nijai;Full+Stack+Developer+%7C+Tech+Explorer;IT+Student+%40+RGIT+'26;Always+building%2C+always+learning..." alt="Typing SVG" />
+</h1>
 
 <p align="center">
 🚀 Tech Explorer | 💻 Full-Stack Developer | 🎓 IT Student @ RGIT '26
@@ -53,7 +55,22 @@
   *Certificate Code: 7679090*
 
 - 🌐 Web Development Training – Internshala  
-  *Completed in: August 2025]*  
+  *Completed in: August 2025*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PurvaNijai34&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurvaNijai34&layout=compact&theme=radical" height="180px"/>
+</p>
+
+---
+
+### 🧠 LeetCode Practice
+
+> “Consistently sharpening my DSA skills on [LeetCode](https://leetcode.com/purva30/) — currently solving daily challenges and pushing my limits!”
 
 ---
 
@@ -67,6 +84,3 @@
 <p align="center">
   <b>“Always building, always learning.”</b>
 </p>
-
-
-
