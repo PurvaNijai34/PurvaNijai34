@@ -56,3 +56,11 @@
 <p align="center">
   <b>“Always building, always learning.”</b>
 </p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PurvaNijai34&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PurvaNijai34&theme=tokyonight" alt="GitHub Streak" width="400"/>
+</p>
+
