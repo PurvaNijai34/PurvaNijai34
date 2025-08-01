@@ -20,43 +20,25 @@
 
 | Area       | Technologies |
 |------------|--------------|
-| **Languages** | JavaScript, Python, C/C++ |
+| **Languages** | JavaScript, Python, C/C++, Java, SQL |
 | **Frontend**  | HTML, CSS, JavaScript, React.js, Tailwind CSS |
-| **Backend**   | Node.js, Express.js |
-| **Database**  | MongoDB |
+| **Backend**   | Node.js, Express.js, PHP |
+| **Database**  | MongoDB, MySQl  |
 | **Tools**     | Git, GitHub, Postman, VS Code |
 
 ---
-
-### 📌 Featured Projects
-
-- 🔐 **[DocuSign Clone](#)**  
-  Full-featured document signing app built with the MERN stack
-
-- 📊 **[AI Resume Analyzer](#)**  
-  Resume scanner using AI & LLM-based insights
-
-- 🏏 **[IPL Player Price Predictor](#)**  
-  ML-powered prediction system for IPL player values
-
-- 💉 **[Diabetes Prediction System](#)**  
-  A medical web app using ML + HTML/CSS for disease prediction
-
-> 🧩 _Explore my repositories for more exciting projects!_
-
----
-### 🏆 Achievements & Certifications
+### 🏆  Certifications
 
 - ✅ Completed “Full Stack Development” Bootcamp (Udemy/Coursera/etc.)
 - 🏅 1st Place in [Project/Tech Fest Name] for AI Resume Analyzer
 - 📜 Certified in “Machine Learning with Python” by [Platform Name]
 
- 🧠 “Consistently sharpening my DSA skills on [LeetCode](https://leetcode.com/your-username) – currently solving daily challenges and pushing my limits!”
+ 🧠 “Consistently sharpening my DSA skills on [LeetCode](https://leetcode.com/u/purva30/) – currently solving daily challenges and pushing my limits!”
 
 ### 📫 Let’s Connect!
 
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-URL)
-- 📧 Email: your.email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/purva-nijai-6041002a5/)
+- 📧 Email: nijaipurva123@gmail.com
 
 ---
 
