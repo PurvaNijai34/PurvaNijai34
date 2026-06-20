@@ -31,7 +31,7 @@ Building scalable web applications, AI-powered products, and solving real-world 
 ## 👨‍💻 About Me
 
 
-- 🎓 Pursuing **B.E. in Information Technology** from **RGIT (Batch '26)**
+- 🎓 **B.E. in Information Technology** from **RGIT (Batch '26)**
 - 🧑‍💻 Completed **Diploma in Computer Engineering**
 - 💻 Passionate about **Full-Stack Web Development (MERN Stack)**
 - 🤖 Building AI-powered applications, SaaS products, and scalable web   solutions.
